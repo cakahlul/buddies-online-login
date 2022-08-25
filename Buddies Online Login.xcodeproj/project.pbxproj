@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4FDFEFB028B6528200A69FDD /* SwiftUI-Aja.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Aja.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FDFEFB028B6528200A69FDD /* Buddies Online Login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Buddies Online Login.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FDFEFB328B6528200A69FDD /* SwiftUI_AjaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_AjaApp.swift; sourceTree = "<group>"; };
 		4FDFEFB528B6528200A69FDD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4FDFEFB728B6528400A69FDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		4FDFEFB128B6528200A69FDD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4FDFEFB028B6528200A69FDD /* SwiftUI-Aja.app */,
+				4FDFEFB028B6528200A69FDD /* Buddies Online Login.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4FDFEFAF28B6528200A69FDD /* SwiftUI-Aja */ = {
+		4FDFEFAF28B6528200A69FDD /* Buddies Online Login */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4FDFEFBE28B6528400A69FDD /* Build configuration list for PBXNativeTarget "SwiftUI-Aja" */;
+			buildConfigurationList = 4FDFEFBE28B6528400A69FDD /* Build configuration list for PBXNativeTarget "Buddies Online Login" */;
 			buildPhases = (
 				4FDFEFAC28B6528200A69FDD /* Sources */,
 				4FDFEFAD28B6528200A69FDD /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftUI-Aja";
+			name = "Buddies Online Login";
 			productName = "SwiftUI-Aja";
-			productReference = 4FDFEFB028B6528200A69FDD /* SwiftUI-Aja.app */;
+			productReference = 4FDFEFB028B6528200A69FDD /* Buddies Online Login.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4FDFEFAB28B6528200A69FDD /* Build configuration list for PBXProject "SwiftUI-Aja" */;
+			buildConfigurationList = 4FDFEFAB28B6528200A69FDD /* Build configuration list for PBXProject "Buddies Online Login" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4FDFEFAF28B6528200A69FDD /* SwiftUI-Aja */,
+				4FDFEFAF28B6528200A69FDD /* Buddies Online Login */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4FDFEFAB28B6528200A69FDD /* Build configuration list for PBXProject "SwiftUI-Aja" */ = {
+		4FDFEFAB28B6528200A69FDD /* Build configuration list for PBXProject "Buddies Online Login" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FDFEFBC28B6528400A69FDD /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4FDFEFBE28B6528400A69FDD /* Build configuration list for PBXNativeTarget "SwiftUI-Aja" */ = {
+		4FDFEFBE28B6528400A69FDD /* Build configuration list for PBXNativeTarget "Buddies Online Login" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FDFEFBF28B6528400A69FDD /* Debug */,
